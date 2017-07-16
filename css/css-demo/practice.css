@@ -1,0 +1,20 @@
+#contact-info {
+  font-size: .8em;
+}
+
+#contact-info p:nth-child(odd){
+  background-color: green;
+  color: white;
+}
+
+.job {
+  background-color: #e9e5dc;
+  border-radius: 25px;
+  padding: 20px;
+  margin-top: 2cm;
+
+}
+
+.achievement {
+  font-size: .8em;
+}
