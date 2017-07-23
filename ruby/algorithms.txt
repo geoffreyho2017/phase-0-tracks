@@ -1,0 +1,15 @@
+Elevator:
+1. when someone is in the elevator, it’s going up or down.
+   a. it will go up and stop at every floor where either
+   1) someone in the elevator has selected, or 2)someone outside the elevator has pressed up button
+   b. it will go down and stop at every floor where:1)someone in the elevator has selected, or someone outside the elevator has pressed the button
+2. it will always stop at the bottom floor when going down if someone pressed the up button
+3. it will always stop at the top floor when going up if someone has pressed the down button
+4. the elevator will wait at the bottom floor when not in use
+
+Sleeping Robot:
+1. lay down on bed
+   a. connect to power supply, recharge
+   b. until it’s 100% recharged, or urgent task comes up, stay on bed
+2. get up when power is 100% and check new task list
+3. start doing new tasks from priority 1 to the last.
