@@ -1,0 +1,23 @@
+header {
+  background-color: green;
+  border: 2px solid black;
+       }
+.column-1 {
+  background-color: pink;
+  display: inline-block;
+  width: 49%;
+  vertical-align: top;
+  border-right: 2px solid grey;
+
+
+         }
+.column-2 {
+  background-color: yellow;
+  display: inline-block;
+  vertical-align: top;
+  width: 49%;
+  border-left: 2px solid grey;
+          }
+footer {
+  background-color: red;
+       }
